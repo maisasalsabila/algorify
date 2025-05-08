@@ -24,3 +24,5 @@ Adapun variabel yang dianalisis meliputi:
 - Persentase penduduk usia kerja yang bekerja
 
 Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
+
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Diagram%20Alir.png)
