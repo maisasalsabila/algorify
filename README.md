@@ -26,7 +26,7 @@ Adapun variabel yang dianalisis meliputi:
 
 Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 
-![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Diagram%20Alir.png)
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Storyboard.png)
 
 ## 📁 Struktur Folder
 - `data/` → Dataset dari Sakernas
