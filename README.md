@@ -4,7 +4,7 @@
   <a href="#-tentang">Tentang</a> •
   <a href="#-deskripsi-project">Deskripsi Project</a> •
   <a href="#-demo">Demo</a> •
-  <a href="#-struktur-project">Struktur Project</a>
+  <a href="#-struktur-folder">Struktur Folder</a>
 </p>
 
 ## 📝 Tentang
