@@ -1,9 +1,10 @@
 ![Header](https://github.com/maisasalsabila/algorify/raw/main/Image/Header%20(2).png)
 
 <p align="center">
-  <a href="#tentang">Tentang</a> •
-  <a href="#deskripsi-project">Deskripsi Project</a> •
-  <a href="#demo">Demo</a>
+  <a href="#-tentang">Tentang</a> •
+  <a href="#-deskripsi-project">Deskripsi Project</a> •
+  <a href="#-demo">Demo</a> •
+  <a href="#-struktur-project">Struktur Project</a>
 </p>
 
 ## 📝 Tentang
@@ -26,3 +27,8 @@ Adapun variabel yang dianalisis meliputi:
 Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 
 ![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Diagram%20Alir.png)
+
+## 📁 Struktur Folder
+- `data/` → Dataset dari Sakernas
+- `Image/` → Gambar visualisasi, gambar flowchart dan header
+- `notebooks/` → Notebook analisis
