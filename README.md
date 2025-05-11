@@ -28,6 +28,9 @@ Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 
 ![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Storyboard.png)
 
+## 🚀 Demo
+(Nantinya akan diisi hasil final dari klasterisasi)
+
 ## 📁 Struktur Folder
 - `data/` → Dataset dari Sakernas
 - `Image/` → Gambar visualisasi, gambar flowchart dan header
