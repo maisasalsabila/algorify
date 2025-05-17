@@ -13,7 +13,7 @@ Berdasarkan data Sakernas 2021–2022, pasar tenaga kerja Indonesia menunjukkan 
 </div>
 
 ## 🔍 Deskripsi Project
-
+<div align="justify">
 Proyek ini menggunakan data Sakernas tahun 2021 dan 2022 yang bersumber dari BPS, dengan fokus pada indikator pasar tenaga kerja antar provinsi di Indonesia. Tujuan dari analisis ini adalah untuk mengidentifikasi pola klaster provinsi berdasarkan karakteristik ketenagakerjaan menggunakan pendekatan unsupervised learning.
 
 Metode yang digunakan adalah algoritma **K-Means** dan **K-Medoids**, dengan evaluasi menggunakan metrik **Silhouette Coefficient** dan **Calinski Harabasz** untuk menentukan jumlah klaster optimal.  
@@ -26,6 +26,7 @@ Adapun variabel yang dianalisis meliputi:
 - Persentase penduduk usia kerja yang bekerja
 
 Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
+</div>
 
 ![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Storyboard.png)
 
