@@ -4,7 +4,9 @@
   <a href="#-tentang">Tentang</a> •
   <a href="#-deskripsi-project">Deskripsi Project</a> •
   <a href="#-demo">Demo</a> •
-  <a href="#-struktur-folder">Struktur Folder</a>
+  <a href="#-diagram-alir">Diagram Alir</a> •
+  <a href="#-struktur-folder">Struktur Folder</a> •
+  <a href="#-ask-man">ASK Man</a> 
 </p>
 
 ## 📝 Tentang
@@ -33,7 +35,18 @@ Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 ## 🚀 Demo
 (Nantinya akan diisi hasil final dari klasterisasi)
 
+## 🔄 Diagram Alir 
+
 ## 📁 Struktur Folder
 - `data/` → Dataset dari Sakernas
 - `Image/` → Gambar visualisasi, gambar flowchart dan header
 - `notebooks/` → Notebook analisis
+
+## 👩‍👩‍👧‍👧 ASK Man
+
+🌝 <a href="https://github.com/Carlyaagmis">Carlya Agmis Aimandiga</a><br>
+🐝 <a href="https://github.com/maisasalsabila">Maisa Salsabila</a><br>
+🦢 <a href="https://github.com/Naufaliaa">Naufalia Alfiryal</a><br>
+🐢 <a href="https://github.com/Reyuliandespa">Reyuli Andespa</a>
+
+
