@@ -6,7 +6,7 @@
   <a href="#-demo">Demo</a> •
   <a href="#-diagram-alir">Diagram Alir</a> •
   <a href="#-struktur-folder">Struktur Folder</a> •
-  <a href="#-ask-man">ASK Man</a> 
+  <a href="#-meet-our-team">Meet Our Team</a> 
 </p>
 
 ## 📝 Tentang
@@ -37,12 +37,13 @@ Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 
 ## 🔄 Diagram Alir 
 
+
 ## 📁 Struktur Folder
 - `data/` → Dataset dari Sakernas
 - `Image/` → Gambar visualisasi, gambar flowchart dan header
 - `notebooks/` → Notebook analisis
 
-## 👩‍👩‍👧‍👧 ASK Man
+## 👩‍👩‍👧‍👧 Meet Our Team
 
 🌝 <a href="https://github.com/Carlyaagmis">Carlya Agmis Aimandiga</a><br>
 🐝 <a href="https://github.com/maisasalsabila">Maisa Salsabila</a><br>
