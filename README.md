@@ -36,7 +36,7 @@ Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 (Nantinya akan diisi hasil final dari klasterisasi)
 
 ## 🔄 Diagram Alir 
-![Image](https://github.com/maisasalsabila/algorify/blob/main/Image/diagram%20alir1.png)
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/diagramalir.png)
 
 ## 📁 Struktur Folder
 - `data/` → Dataset dari Sakernas
