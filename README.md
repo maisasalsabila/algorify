@@ -33,6 +33,7 @@ Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 ![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Storyboard.png)
 
 ## 🚀 Demo
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Peta%20Klaster.PNG)
 
 ## 🔄 Diagram Alir 
 <div align="center">
