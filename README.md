@@ -33,7 +33,6 @@ Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 ![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Storyboard.png)
 
 ## 🚀 Demo
-(Nantinya akan diisi hasil final dari klasterisasi)
 
 ## 🔄 Diagram Alir 
 <div align="center">
