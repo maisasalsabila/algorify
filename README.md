@@ -30,7 +30,20 @@ Adapun variabel yang dianalisis meliputi:
 </div>
 
 ## 🚀 Demo
-![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Peta%20Klaster.PNG)
+
+Peta Sebaran 2021
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/peta_2021.PNG)
+
+Peta Sebaran 2022
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/peta_2022.PNG)
+
+seperti yang dilihat tidak ada perubahan anggota klaster pada dua tahun berturut-turut. Hal ini tidak mengartikan bahwa tidak ada perubahan nilai pada tiap indikator, melainkan ada perubahan tetapi tidak terlalu signifikan yang dapat dilihat pada nilai rata-ratanya di bawah ini.
+
+Karakteristik Rata-Rata 2021
+
+Karakteristik Rata-Rata 2022
+
+
 
 ## 🔄 Diagram Alir 
 Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
