@@ -11,7 +11,7 @@
 
 ## 📝 Tentang
 <div align="justify">
-Berdasarkan data Sakernas 2021–2022, pasar tenaga kerja Indonesia menunjukkan tren pemulihan dengan meningkatnya jumlah angkatan kerja dan TPAK, serta turunnya TPT. Namun, tingginya proporsi pekerja informal dan rentan menandakan belum meratanya kualitas pekerjaan di berbagai provinsi. Proyek ini bertujuan mengelompokkan provinsi berdasarkan indikator ketenagakerjaan seperti TPT, TPAK, persentase pekerja rentan, pekerja sektor informal, dan penduduk usia kerja yang bekerja. Metode klasterisasi **K-Means** dan **K-Medoids** digunakan untuk mendukung segmentasi wilayah dan penyusunan kebijakan ketenagakerjaan yang lebih tepat sasaran.
+Berdasarkan data Sakernas 2021–2022, pasar tenaga kerja Indonesia menunjukkan tren pemulihan dengan meningkatnya jumlah angkatan kerja dan TPAK, serta turunnya TPT. Namun, tingginya proporsi pekerja informal dan rentan menandakan belum meratanya kualitas pekerjaan di berbagai provinsi. Proyek ini bertujuan mengelompokkan provinsi berdasarkan indikator ketenagakerjaan seperti TPT, TPAK, persentase pekerja rentan, pekerja sektor informal, dan penduduk usia kerja yang bekerja. Metode klasterisasi K-Means dan K-Medoids digunakan untuk mendukung segmentasi wilayah dan penyusunan kebijakan ketenagakerjaan yang lebih tepat sasaran.
 </div>
 
 ## 🔍 Deskripsi Project
@@ -27,15 +27,13 @@ Adapun variabel yang dianalisis meliputi:
 - Persentase pekerja sektor informal
 - Persentase penduduk usia kerja yang bekerja
 
-Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 </div>
-
-![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Storyboard.png)
 
 ## 🚀 Demo
 ![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/Peta%20Klaster.PNG)
 
 ## 🔄 Diagram Alir 
+Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
 <div align="center">
 <img src="https://github.com/maisasalsabila/algorify/raw/main/Image/fflowchart.png" alt="Image" width="600"/>
 </div>
