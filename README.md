@@ -3,8 +3,9 @@
 <p align="center">
   <a href="#-tentang">Tentang</a> •
   <a href="#-deskripsi-project">Deskripsi Project</a> •
-  <a href="#-demo">Demo</a> •
   <a href="#-diagram-alir">Diagram Alir</a> •
+  <a href="#-demo">Demo</a> •
+  <a href="#-insight">Insight</a> •
   <a href="#-struktur-folder">Struktur Folder</a> •
   <a href="#-meet-our-team">Meet Our Team</a> 
 </p>
@@ -29,6 +30,12 @@ Adapun variabel yang dianalisis meliputi:
 
 </div>
 
+## 🔄 Diagram Alir 
+Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
+<div align="center">
+<img src="https://github.com/maisasalsabila/algorify/raw/main/Image/fflowchart.png" alt="Image" width="600"/>
+</div>
+
 ## 🚀 Demo
 
 Peta Sebaran 2021
@@ -40,16 +47,20 @@ Peta Sebaran 2022
 seperti yang dilihat tidak ada perubahan anggota klaster pada dua tahun berturut-turut. Hal ini tidak mengartikan bahwa tidak ada perubahan nilai pada tiap indikator, melainkan ada perubahan tetapi tidak terlalu signifikan yang dapat dilihat pada nilai rata-ratanya di bawah ini.
 
 Karakteristik Rata-Rata 2021
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/karakteristik_2021.PNG)
 
 Karakteristik Rata-Rata 2022
+![Image](https://github.com/maisasalsabila/algorify/raw/main/Image/karakteristik_2022.PNG)
 
+## :bulb: Insight
+*Klaster 0: "Provinsi Ketenagakerjaan Unggul" (6 Provinsi)**
+Kelompok provinsi ini menunjukkan kondisi pasar kerja yang sangat kuat. Provinsi-provinsi dalam klaster ini memiliki tingkat pengangguran yang paling rendah dan partisipasi angkatan kerja yang tinggi. Mereka juga memiliki proporsi pekerja rentan dan informal yang minim. Selain itu, penduduk usia produktif di provinsi ini cenderung aktif bekerja, menjadikannya sebagai benchmark ideal dalam sektor ketenagakerjaan di Indonesia.
 
+**Klaster 1: "Provinsi Ketenagakerjaan Moderat" (20 Provinsi)**
+Klaster ini merepresentasikan kondisi ketenagakerjaan yang lebih seimbang atau rata-rata di Indonesia. Provinsi-provinsi di klaster ini memiliki indikator yang berada di tengah spektrum, dengan kekuatan dan tantangan yang seimbang. Meskipun berada di posisi moderat, kelompok ini memiliki potensi besar untuk berkembang lebih lanjut dengan adanya kebijakan dan perbaikan yang tepat.
 
-## 🔄 Diagram Alir 
-Proses analisis dilakukan menggunakan bahasa pemrograman **Python**.
-<div align="center">
-<img src="https://github.com/maisasalsabila/algorify/raw/main/Image/fflowchart.png" alt="Image" width="600"/>
-</div>
+**Klaster 2: "Provinsi Prioritas Intervensi Ketenagakerjaan" (8 Provinsi)**
+Kelompok provinsi ini menghadapi tantangan ketenagakerjaan yang cukup serius. Mereka memiliki tingkat pengangguran yang tinggi, partisipasi angkatan kerja yang rendah, serta dominasi pekerja rentan dan sektor informal. Selain itu, proporsi penduduk usia produktif yang aktif bekerja juga sangat rendah. Oleh karena itu, provinsi dalam klaster ini membutuhkan perhatian dan intervensi kebijakan yang lebih intensif untuk mengatasi masalah ketenagakerjaan yang mereka hadapi.
 
 ## 📁 Struktur Folder
 - `data/` → Dataset dari Sakernas
